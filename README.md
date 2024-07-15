@@ -1,19 +1,20 @@
-# Trilha HTML - Dio.me
-## Módulo 02 - HTML I - Conceitos Básicos
 
-Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
+HTML
+
+Este é o projeto final de HTML, criar um site "quase" completo, com tudo o que vimos até o momento. Os temas que deverão ser abordados são:
 - Formulários
 - Estruturação e formatação de texto
 - Mídias
 - Tabelas
+- HTML semântico
 
 Além de outros recursos falados nas aulas!
 
-## Instruções
-1. Você deve criar um site de uma clínica médica (você escolhe a especialidade)
+## Instruções dos alunos
+1. Você deve criar um site de uma clínica médica (você escolhe a especialidade, use sua criatividade!)
 2. Este site deve conter o seguinte menu de navegação:
-    - Página Principal
-    - Sobre a clínica
+    - Home
+    - Sobre nós
     - Horário de Atendimento
     - Contato
 3. Deve, obrigatoriamente, utilizar todas os assuntos abordados nas aulas.
@@ -29,12 +30,12 @@ Todas as páginas terão que seguir um padrão pré-definido. Como não aprendem
 \* _No template tem algumas cores mas é apenas para melhor visualização. Fique a vontade para alterar da melhor forma._
 
 No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** de cada página ficará uma imagem, no **Footer** informações de contato, e o **Content** é o conteúdo de cada página.
-### Página Principal
+### Home
 1. Deve ter uma imagem no **Header**.
 2. Em **Content** uma breve descrição sobre a clínica.
 3. **Menu** e **Footer** padrões em todas as páginas.
 
-### Sobre a clínica
+### Sobre nós
 1. Deve ter uma imagem diferente no **Header**.
 2. Em **Content** um texto falando sobre a clínica.
 3. **Menu** e **Footer** padrões em todas as páginas.
@@ -69,6 +70,4 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 
 3. **Menu** e **Footer** padrões em todas as páginas.
 
-Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
-
-Bora pra cima!
+bem pouquinho, né?
